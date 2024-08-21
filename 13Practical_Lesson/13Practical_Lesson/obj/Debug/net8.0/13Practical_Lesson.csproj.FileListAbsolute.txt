@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\bin\Debug\net8.0\13Practical_Lesson.exe
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\bin\Debug\net8.0\13Practical_Lesson.deps.json
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\bin\Debug\net8.0\13Practical_Lesson.runtimeconfig.json
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\bin\Debug\net8.0\13Practical_Lesson.dll
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\bin\Debug\net8.0\13Practical_Lesson.pdb
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\13Practical_Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\13Practical_Lesson.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\13Practical_Lesson.AssemblyInfo.cs
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\13Practical_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\13Practical_Lesson.dll
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\refint\13Practical_Lesson.dll
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\13Practical_Lesson.pdb
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\13Practical_Lesson.genruntimeconfig.cache
+C:\Users\HP\source\repos\13Practical_Lesson\13Practical_Lesson\obj\Debug\net8.0\ref\13Practical_Lesson.dll
